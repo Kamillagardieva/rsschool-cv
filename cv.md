@@ -16,7 +16,9 @@ My skills: I work in the amoCRM system, I have a good command of Word, Excel, wo
 Code example:
 
 public class Multiply {
-    public static Double multiply(Double a, Double b) {  
+
+    public static Double multiply(Double a, Double b) {
+    
         return a * b;      
     }    
 }
