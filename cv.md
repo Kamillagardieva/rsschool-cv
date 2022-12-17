@@ -15,6 +15,12 @@ My skills: I work in the amoCRM system, I have a good command of Word, Excel, wo
 
 Code example:
 
+public class Multiply {
+    public static Double multiply(Double a, Double b) {
+        return a * b;
+    }
+}
+
 Work experience:
 
 Education: a higher medical education, trading and investment courses, RS school JS/ Front-End. Stage 0 (in the learning process).
