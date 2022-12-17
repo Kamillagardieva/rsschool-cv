@@ -23,7 +23,7 @@ public class Multiply {
     }    
 }
 
-Work experience:
+Work experience: my CV (link)
 
 Education: a higher medical education, trading and investment courses, RS school JS/ Front-End. Stage 0 (in the learning process).
 
